@@ -34,6 +34,9 @@ DOMAIN,fairplay.l.qq.com
 DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
+DOMAIN,ad.tencentmusic.com
+DOMAIN,btrace.qq.com
+DOMAIN,tmead.y.qq.com
 # > Strava
 DOMAIN,analytics.strava.com
 # > Umeng

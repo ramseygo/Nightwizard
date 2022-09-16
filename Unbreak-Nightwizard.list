@@ -8,6 +8,7 @@ DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
 DOMAIN,wgo.mmstat.com
 DOMAIN,odin.re.taobao.com
+DOMAIN,gm.mmstat.com
 # > Google
 DOMAIN-SUFFIX,blog.google // Google Blog
 DOMAIN-SUFFIX,googletraveladservices.com // Google Flights
@@ -38,3 +39,6 @@ DOMAIN,analytics.strava.com
 # > Umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
+DOMAIN,ulogs.umeng.com
+DOMAIN,errlog.umeng.com
+

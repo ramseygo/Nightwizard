@@ -22,6 +22,7 @@ force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.dd
 
 
 [Rule]
+DOMAIN,y.gtimg.cn,REJECT
 DOMAIN,118.89.204.198,REJECT-DROP
 DOMAIN,appcloud2.in.zhihu.com,REJECT
 DOMAIN,mqtt.zhihu.com,REJECT

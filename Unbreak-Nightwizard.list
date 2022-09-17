@@ -3,6 +3,7 @@
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
 DOMAIN,bdtj.tagtic.cn
+DOMAIN,report.meituan.com
 # > Alibaba
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
@@ -49,4 +50,3 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,ulogs.umeng.com
 DOMAIN,errlog.umeng.com
-

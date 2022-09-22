@@ -1,5 +1,9 @@
 # Unbreak-Nightwizard
 # > General
+# China Apps
+USER-AGENT,MicroMessenger Client
+USER-AGENT,WeChat*
+USER-AGENT,MApi* // Dianping
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
 DOMAIN,bdtj.tagtic.cn

@@ -6,7 +6,6 @@ DOMAIN,app.appsflyer.com
 DOMAIN,bdtj.tagtic.cn
 DOMAIN,report.meituan.com
 DOMAIN,fp-it.fengkongcloud.com
-DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN,ifs.tanx.com
 # > Apple
 DOMAIN,weather-data.apple.com

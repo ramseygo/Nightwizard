@@ -7,10 +7,6 @@ DOMAIN,bdtj.tagtic.cn
 DOMAIN,report.meituan.com
 DOMAIN,fp-it.fengkongcloud.com
 DOMAIN,ifs.tanx.com
-# > Apple
-DOMAIN,weather-data.apple.com
-DOMAIN,weather-analytics-events.apple.com
-DOMAIN,weather-map2.apple.com
 # > Alibaba
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com

@@ -1,16 +1,16 @@
-host-suffix, onetrust.io, NBA
-host-suffix, braze.com, NBA
-host-suffix, amazon-adsystem.com, NBA
-host-suffix, scorecardresearch.com, NBA
-host-suffix, opin.media, NBA
-host-suffix, adobedtm.com, NBA
-host-suffix, neulion.com, NBA
-host-suffix, imggaming.com, NBA
-host-suffix, akamaized.net, NBA
-host-suffix, sentry.io, NBA
-host-suffix, akamaihd.net, NBA
-host-suffix, adobedtm.com, NBA
-host-suffix, digicert.com, NBA
-host-suffix, easelive.tv, NBA
-host-suffix, nba.com, NBA
-USER-AGENT,NBA*,NBA
+host-suffix, onetrust.io
+host-suffix, braze.com
+host-suffix, amazon-adsystem.com
+host-suffix, scorecardresearch.com
+host-suffix, opin.media
+host-suffix, adobedtm.com
+host-suffix, neulion.com
+host-suffix, imggaming.com
+host-suffix, akamaized.net
+host-suffix, sentry.io
+host-suffix, akamaihd.net
+host-suffix, adobedtm.com
+host-suffix, digicert.com
+host-suffix, easelive.tv
+host-suffix, nba.com
+

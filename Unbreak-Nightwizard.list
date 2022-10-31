@@ -24,6 +24,7 @@ DOMAIN,dl.l.google.com
 DOMAIN,update.googleapis.com
 DOMAIN,googleads.g.doubleclick.net
 DOMAIN,www.googleadservices.com
+DOMAIN,pubads.g.doubleclick.net
 # >> Firebase Cloud Messaging
 DOMAIN,mtalk.google.com
 DOMAIN,alt1-mtalk.google.com

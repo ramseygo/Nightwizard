@@ -1,16 +1,10 @@
 # Unbreak-Nightwizard
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googleadsserving.cn
-DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,googletagservices.com
-DOMAIN,ads.youtube.com
-DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,amazon-adsystem.com 
 DOMAIN-SUFFIX,adsafeprotected.com
-DOMAIN,adservice.google.com
 DOMAIN,sdk.e.qq.com
 DOMAIN-SUFFIX,ess.apple.com
+DOMAIN-SUFFIX,braze.com
+DOMAIN,ads.youtube.com
 # > General
 # China Apps
 DOMAIN,app.adjust.com

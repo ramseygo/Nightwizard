@@ -34,9 +34,6 @@ DOMAIN,clientservices.googleapis.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,update.googleapis.com
-DOMAIN,www.googleadservices.com
-DOMAIN-SUFFIX,g.doubleclick.net
-DOMAIN-SUFFIX,googlesyndication.com
 # >> Firebase Cloud Messaging
 DOMAIN,mtalk.google.com
 DOMAIN,alt1-mtalk.google.com

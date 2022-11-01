@@ -1,4 +1,11 @@
 # Unbreak-Nightwizard
+DOMAIN-SUFFIX,braze.com,DIRECT 
+DOMAIN-SUFFIX,amazon-adsystem.com,DIRECT 
+DOMAIN-SUFFIX,adsafeprotected.com,DIRECT 
+DOMAIN,adservice.google.com,DIRECT 
+DOMAIN,www.googletagservices.com,DIRECT 
+DOMAIN,sdk.e.qq.com,DIRECT
+DOMAIN-SUFFIX,ess.apple.com,DIRECT 
 # > General
 # China Apps
 DOMAIN,app.adjust.com

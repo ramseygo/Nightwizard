@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,smartmailcloud.com
+DOMAIN,imap.mail.me.com
+DOMAIN,p208-caldav.icloud.com.cn
+DOMAIN,caldav.icloud.com
+DOMAIN-SUFFIX,gmail.com
+USER-AGENT,Gmail*,Gmail

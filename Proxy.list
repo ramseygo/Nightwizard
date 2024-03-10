@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,braze.eu
 DOMAIN,emas.etax.chinatax.gov.cn
 IP-CIDR,180.153.255.6/32,no-resolve
+USER-AGENT,Proxy*,Proxy

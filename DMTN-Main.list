@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,dmtn.tv
+DOMAIN-SUFFIX,venom-vip.com
+IP-CIDR,185.185.50.232/32,no-resolve
+USER-AGENT,DMTN-Main*,DMTN-Main

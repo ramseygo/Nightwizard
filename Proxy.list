@@ -2,7 +2,8 @@ DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,adjust.net.in
-DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,status-ipv6.jpush.cn
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,braze.eu

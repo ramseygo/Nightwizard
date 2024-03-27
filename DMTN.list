@@ -3,4 +3,5 @@ IP-CIDR,213.176.0.0/12,no-resolve
 IP-CIDR,45.143.0.0/12,no-resolve
 IP-CIDR,190.93.0.0/12,no-resolve
 IP-CIDR,194.87.0.0/12,no-resolve
+IP-CIDR,45.155.0.0/12,no-resolve
 USER-AGENT,DMTN*,DMTN

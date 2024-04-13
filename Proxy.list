@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,status-ipv6.jpush.cn
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,braze.eu
+DOMAIN-SUFFIX,icbc.com.cn
 DOMAIN,emas.etax.chinatax.gov.cn
-DOMAIN,pageviewp.icbc.com.cn
 IP-CIDR,180.153.255.6/32,no-resolve
 USER-AGENT,Proxy*,Proxy

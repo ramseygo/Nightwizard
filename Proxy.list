@@ -21,4 +21,5 @@ DOMAIN,app.adjust.com
 DOMAIN,ics.ecal.com
 DOMAIN,emas.etax.chinatax.gov.cn
 IP-CIDR,180.153.255.6/32,no-resolve
+IP-CIDR,157.255.192.104/32,no-resolve
 USER-AGENT,Proxy*,Proxy

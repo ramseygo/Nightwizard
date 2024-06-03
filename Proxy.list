@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,status-ipv6.jpush.cn
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,braze.eu
+DOMAIN-SUFFIX,fileball.app
 DOMAIN,app.adjust.com
 DOMAIN,ics.ecal.com
 IP-CIDR,180.153.255.6/32,no-resolve

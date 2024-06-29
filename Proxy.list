@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,fileball.app
 DOMAIN,app.adjust.com
 DOMAIN,ics.ecal.com
+DOMAIN,dev.g.alicdn.com
 IP-CIDR,180.153.255.6/32,no-resolve
 IP-CIDR,157.255.192.104/32,no-resolve
 USER-AGENT,Proxy*,Proxy

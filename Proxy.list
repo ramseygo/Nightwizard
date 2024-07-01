@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,fileball.app
 DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,jpush.cn
 DOMAIN,app.adjust.com
 DOMAIN,ics.ecal.com
 IP-CIDR,180.153.255.6/32,no-resolve

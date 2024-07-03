@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN,app.adjust.com
 DOMAIN,ics.ecal.com
+DOMAIN,szreport.weixin.qq.com
 IP-CIDR,180.153.255.6/32,no-resolve
 IP-CIDR,157.255.192.104/32,no-resolve
 IP-CIDR,119.75.222.122/32,no-resolve

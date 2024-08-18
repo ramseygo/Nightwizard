@@ -23,5 +23,6 @@ DOMAIN-SUFFIX,etax.chinatax.gov.cn
 DOMAIN,app.adjust.com
 DOMAIN,ics.ecal.com
 DOMAIN,szreport.weixin.qq.com
+DOMAIN,apoll.m.taobao.com
 IP-CIDR,180.153.255.6/32,no-resolve
 USER-AGENT,Proxy*,Proxy

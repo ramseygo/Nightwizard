@@ -27,6 +27,5 @@ DOMAIN,app.adjust.com
 DOMAIN,ics.ecal.com
 DOMAIN,szreport.weixin.qq.com
 DOMAIN,apoll.m.taobao.com
-DOMAIN,upos-sz-static.bilivideo.com
 IP-CIDR,180.153.255.6/32,no-resolve
 USER-AGENT,Proxy*,Proxy

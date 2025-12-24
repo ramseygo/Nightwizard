@@ -17,15 +17,9 @@ DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,fileball.app
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,jpush.cn
-DOMAIN-SUFFIX,etax.chinatax.gov.cn
-DOMAIN-SUFFIX,h5app.10086.cn
 DOMAIN-SUFFIX,dcloud.net.cn
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,appcenter.ms
-DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN,app.adjust.com
-DOMAIN,ics.ecal.com
-DOMAIN,szreport.weixin.qq.com
-DOMAIN,apoll.m.taobao.com
 IP-CIDR,180.153.255.6/32,no-resolve
 USER-AGENT,Proxy*,Proxy

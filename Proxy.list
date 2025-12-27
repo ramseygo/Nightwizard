@@ -22,5 +22,6 @@ DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,pointlife365.net
 DOMAIN,app.adjust.com
+DOMAIN,upos-sz-static.bilivideo.com
 IP-CIDR,180.153.255.6/32,no-resolve
 USER-AGENT,Proxy*,Proxy

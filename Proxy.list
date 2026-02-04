@@ -16,8 +16,12 @@ DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,fileball.app
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,pointlife365.net
+DOMAIN-SUFFIX,chinatax.gov.cn
 DOMAIN,status-ipv6.jpush.cn
 DOMAIN,app.adjust.com
 DOMAIN,upos-sz-static.bilivideo.com
+DOMAIN,amdc.alipay.com
+DOMAIN,ap.dc-report.cc
+IP-CIDR,116.163.26.106/32,no-resolve
 IP-CIDR,180.153.255.6/32,no-resolve
 USER-AGENT,Proxy*,Proxy

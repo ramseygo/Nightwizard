@@ -22,6 +22,7 @@ DOMAIN,app.adjust.com
 DOMAIN,upos-sz-static.bilivideo.com
 DOMAIN,amdc.alipay.com
 DOMAIN,ap.dc-report.cc
+DOMAIN,applog.lanxin.cn
 IP-CIDR,116.163.26.106/32,no-resolve
 IP-CIDR,180.153.255.6/32,no-resolve
 USER-AGENT,Proxy*,Proxy

@@ -15,4 +15,5 @@ DOMAIN,sdk.fra-01.braze.eu
 DOMAIN,api.map.diditaxi.com.cn
 DOMAIN,dispatcher.is.autonavi.com
 DOMAIN,ia.apps.cntv.cn
+DOMAIN,ap.dc-report.cc
 USER-AGENT,Proxy*,Proxy

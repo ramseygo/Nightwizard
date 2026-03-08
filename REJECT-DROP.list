@@ -5,4 +5,7 @@ DOMAIN-SUFFIX,politics.people.cn
 DOMAIN-SUFFIX,mintegral.net
 DOMAIN,157.255.173.151
 DOMAIN,3747280245.qnqcdn.net
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN-KEYWORD, p2p
+IP-CIDR,111.170.10.10/32,no-resolve
 USER-AGENT,REJECT-DROP*,REJECT-DROP

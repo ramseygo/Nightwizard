@@ -16,4 +16,5 @@ DOMAIN,api.map.diditaxi.com.cn
 DOMAIN,dispatcher.is.autonavi.com
 DOMAIN,ia.apps.cntv.cn
 DOMAIN,ap.dc-report.cc
+IP-CIDR,123.125.114.0/24,no-resolve
 USER-AGENT,Proxy*,Proxy

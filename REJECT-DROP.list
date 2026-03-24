@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,p.liadm.com
 DOMAIN-SUFFIX,finance.people.cn
 DOMAIN-SUFFIX,politics.people.cn
 DOMAIN-SUFFIX,mintegral.net
+DOMAIN-SUFFIX,inmobi.cn
 IP-CIDR,111.170.10.10/32,no-resolve
 IP-CIDR,157.255.173.151/32,no-resolve
 USER-AGENT,REJECT-DROP*

@@ -5,16 +5,11 @@ DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,adjust.net.in
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN,emas.etax.chinatax.gov.cn
-DOMAIN,status-ipv6.jpush.cn
 DOMAIN,app.adjust.com
-DOMAIN,upos-sz-static.bilivideo.com
-DOMAIN,ce3e75d5.jpush.cn
 DOMAIN,dldir1.qq.com
 DOMAIN,log.pointlife365.net
 DOMAIN,sdk.fra-01.braze.eu
-DOMAIN,api.map.diditaxi.com.cn
 DOMAIN,dispatcher.is.autonavi.com
-DOMAIN,ia.apps.cntv.cn
 DOMAIN,ap.dc-report.cc
 IP-CIDR,123.125.114.0/24,no-resolve
 USER-AGENT,Proxy*

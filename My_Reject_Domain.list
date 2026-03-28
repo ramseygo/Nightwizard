@@ -8,3 +8,13 @@ log.mmstat.com
 mobads.baidu.com
 api.mobads.baidu.com
 pos.baidu.com
+
+# === 腾讯广点通 (开屏与信息流广告) ===
+sdk.e.qq.com
+.e.qq.com
+.gdt.qq.com
+
+# === 字节跳动/穿山甲联盟 (数据上报与广告) ===
+toblog.ctobsnssdk.com
+.ctobsnssdk.com
+.pangolin-sdk-toutiao.com

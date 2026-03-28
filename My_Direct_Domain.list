@@ -83,3 +83,14 @@ api.zhihu.com
 bbs.hupu.com
 games.hupu.com
 .hoopchina.com.cn
+
+# === 高德地图 核心调度 (拦截会导致无法规划路线或白屏) ===
+dispatcher.is.autonavi.com
+
+# === 腾讯系 核心下载池 (微信/QQ内更新、大文件下载) ===
+dldir1.qq.com
+
+# === 人民网 正常新闻内容浏览 ===
+.finance.people.cn
+.politics.people.cn
+

@@ -71,3 +71,14 @@ wb.amap.com
 .baidu.com
 .baidupcs.com
 .bdstatic.com
+
+# === 知乎核心与图片 CDN (防误杀极速直连) ===
+.zhimg.com
+.zhihu.com
+api.zhihu.com
+
+# === 虎扑核心与图片 CDN (防误杀极速直连) ===
+.hupucdn.com
+.hupu.com
+bbs.hupu.com
+games.hupu.com

@@ -1,0 +1,72 @@
+# === 个人 App (Direct) ===
+.kaiyanapp.com
+.dapenti.com
+.sspai.com
+.sogoucdn.com
+.thepaper.cn
+.zhimg.com
+.infzm.com
+
+# === B 站核心直连 ===
+app.bilibili.com
+api.bilibili.com
+api.vc.bilibili.com
+passport.bilibili.com
+message.bilibili.com
+grpc.biliapi.net
+.acgvideo.com
+.hdslb.com
+.bilivideo.com
+
+# === 阿里系与支付宝直连 ===
+guide-acs.m.taobao.com
+mtop.taobao.com
+api.m.taobao.com
+buy.taobao.com
+mobilegw.alipay.com
+mcgw.alipay.com
+gw.alicdn.com
+.alicdn.com
+.tbcache.com
+.alipayobjects.com
+
+# === 腾讯系核心业务直连 ===
+szshort.weixin.qq.com
+extshort.weixin.qq.com
+minorshort.weixin.qq.com
+mp.weixin.qq.com
+res.wx.qq.com
+pay.weixin.qq.com
+payapp.weixin.qq.com
+tenpay.com
+.wechat.com
+.wechatpay.com
+.qlogo.cn
+.qpic.cn
+.gtimg.cn
+.servicewechat.com
+
+# === 滴滴出行核心直连 ===
+api.didiglobal.com
+app.xiaojukeji.com
+common.diditaxi.com.cn
+.didistatic.com
+
+# === 美团 & 大众点评核心直连 ===
+api.meituan.com
+app.meituan.com
+mapi.dianping.com
+.meituan.net
+.dpfile.com
+
+# === 高德地图核心直连 ===
+restapi.amap.com
+m5.amap.com
+aos.amap.com
+wb.amap.com
+.is.autonavi.com
+
+# === 百度网盘核心直连 ===
+.baidu.com
+.baidupcs.com
+.bdstatic.com

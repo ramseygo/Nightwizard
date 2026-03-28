@@ -18,6 +18,11 @@ apm.hupu.com
 sentry.hupu.com
 sensors.hupu.com
 
+# === 友盟 (UMeng) 遥测与日志收集 (极大降低后台耗电) ===
+errnewlog.umeng.com
+.umeng.com
+.umengcloud.com
+
 # 百度开屏广告
 mobads.baidu.com
 api.mobads.baidu.com

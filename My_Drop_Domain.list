@@ -13,12 +13,10 @@ sentry.hupu.com
 sensors.hupu.com
 
 # === 友盟 (UMeng) 遥测与日志收集 (极大降低后台耗电) ===
-errnewlog.umeng.com
 .umeng.com
 .umengcloud.com
 
 # === 同盾科技/风控云 (设备指纹与后台画像跟踪) ===
-fp-it.fengkongcloud.com
 .fengkongcloud.com
 
 # === AppsFlyer & Adjust (全球最大的两大App买量归因与行为追踪 SDK) ===

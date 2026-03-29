@@ -63,6 +63,7 @@ mapi.dianping.com
 
 # === 高德地图核心直连 ===
 restapi.amap.com
+mpsapi.amap.com
 m5.amap.com
 aos.amap.com
 wb.amap.com

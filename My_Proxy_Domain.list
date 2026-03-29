@@ -25,9 +25,8 @@ kelee.one
 .cdninstagram.com
 
 # --- Gemini 核心 API ---
-generativelanguage.googleapis.com
-alkali.m.google.com
-proactivebackend-pa.googleapis.com
+.m.google.com
+.googleapis.com
 .gemini.google.com
 .ai.google.dev
 

@@ -23,3 +23,20 @@ kelee.one
 # === Instagram/Meta (Proxy) ===
 .fbcdn.net
 .cdninstagram.com
+
+# --- Gemini 核心 API ---
+generativelanguage.googleapis.com
+alkali.m.google.com
+proactivebackend-pa.googleapis.com
+gemini.google.com
+ai.google.dev
+
+# --- YouTube 核心流媒体与静态资源 ---
+youtube.com
+youtu.be
+ytimg.com
+googlevideo.com
+youtube-nocookie.com
+
+
+

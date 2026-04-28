@@ -8,8 +8,6 @@
 .douban.com
 .chinatax.gov.cn
 weixin.sogou.com
-.dns.weixin.qq.com
-.dns.wechat.com
 
 # === B 站核心直连 ===
 app.bilibili.com
@@ -29,24 +27,6 @@ api.m.taobao.com
 buy.taobao.com
 .alicdn.com
 .tbcache.com
-.alipayobjects.com
-.alipay.com
-
-# === 腾讯系核心业务直连 ===
-szshort.weixin.qq.com
-extshort.weixin.qq.com
-minorshort.weixin.qq.com
-mp.weixin.qq.com
-res.wx.qq.com
-pay.weixin.qq.com
-payapp.weixin.qq.com
-tenpay.com
-.wechat.com
-.wechatpay.com
-.qlogo.cn
-.qpic.cn
-.gtimg.cn
-.servicewechat.com
 
 # === 滴滴出行核心直连 ===
 api.didiglobal.com

@@ -16,9 +16,6 @@ sensors.hupu.com
 .umeng.com
 .umengcloud.com
 
-# === 同盾科技/风控云 (设备指纹与后台画像跟踪) ===
-.fengkongcloud.com
-
 # === AppsFlyer & Adjust (全球最大的两大App买量归因与行为追踪 SDK) ===
 .appsflyer.com
 .appsflyersdk.com
@@ -37,7 +34,4 @@ sdk.fra-01.braze.eu
 
 # === 其他国内杂项日志上报接口 ===
 ap.dc-report.cc
-.bcebos.com
-sdk.e.qq.com
 rmonitor.qq.com
-collector.github.com

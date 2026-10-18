@@ -19,7 +19,7 @@ sensors.hupu.com
 # === AppsFlyer & Adjust (全球最大的两大App买量归因与行为追踪 SDK) ===
 .appsflyer.com
 .appsflyersdk.com
-.app.adjust.com
+.adjust.com
 .adjust.net.in
 
 # === Google Firebase / Analytics 打点收集 ===

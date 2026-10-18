@@ -17,27 +17,12 @@ kelee.one
 .github.com
 .githubassets.com
 .omnigroup.com
-.gmail.com
 .smartmailcloud.com
-.googleusercontent.com
 api.revenuecat.com
 .facebook.com
-.gstatic.com
 .bugsnag.com
 .footystats.org
 
 # === Instagram/Meta (Proxy) ===
 .fbcdn.net
 .cdninstagram.com
-
-# --- Gemini 核心 API ---
-.google.com
-.googleapis.com
-.ai.google.dev
-
-# --- YouTube 核心流媒体与静态资源 ---
-.youtube.com
-.youtu.be
-.ytimg.com
-.googlevideo.com
-.youtube-nocookie.com

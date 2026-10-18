@@ -7,12 +7,10 @@ collector.github.com
 log.mmstat.com
 
 # 百度开屏广告
-mobads.baidu.com
-api.mobads.baidu.com
+.mobads.baidu.com
 pos.baidu.com
 
 # === 腾讯广点通 (开屏与信息流广告) ===
-sdk.e.qq.com
 .e.qq.com
 .gdt.qq.com
 

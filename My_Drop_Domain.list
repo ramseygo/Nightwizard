@@ -1,37 +1,3 @@
-# === 知乎高频遥测与打点 ===
-appcloud2.in.zhihu.com
-mqtt.zhihu.com
-sugar.zhihu.com
-crash2.zhihu.com
-zxwk.zhihu.com
-
-# === 虎扑开屏与打点监控 ===
-adx.hupu.com
-goblin.hupu.com
+# === 虎扑性能与崩溃监控 ===
 apm.hupu.com
 sentry.hupu.com
-sensors.hupu.com
-
-# === 友盟 (UMeng) 遥测与日志收集 (极大降低后台耗电) ===
-.umeng.com
-.umengcloud.com
-
-# === AppsFlyer & Adjust (全球最大的两大App买量归因与行为追踪 SDK) ===
-.appsflyer.com
-.appsflyersdk.com
-.adjust.com
-.adjust.net.in
-
-# === Google Firebase / Analytics 打点收集 ===
-.app-measurement.com
-.app-analytics-services.com
-
-# === 微软 App Center (崩溃日志与数据遥测) ===
-.appcenter.ms
-
-# === Braze SDK (用户行为画像与自动化营销推送) ===
-sdk.fra-01.braze.eu
-
-# === 其他国内杂项日志上报接口 ===
-ap.dc-report.cc
-rmonitor.qq.com

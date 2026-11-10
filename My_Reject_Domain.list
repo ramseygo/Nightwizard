@@ -13,3 +13,10 @@ www.gzdata.com.cn
 # === 补充 HTTPDNS 拦截 (微信支付 HTTPDNS) ===
 paydns.wechatpay.cn
 
+# === PCDN 偷跑与异常端口连接拦截 ===
+.qrstuvwxyzab.com
+p.tencentmusic.com
+
+# === 喜马拉雅埋点遥测与激励广告 ===
+mermaid.ximalaya.com
+ad-incentive.ximalaya.com

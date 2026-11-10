@@ -10,3 +10,6 @@ mqtt.zhihu.com
 ap.dc-report.cc
 www.gzdata.com.cn
 .smogflycloud.com
+# === 补充 HTTPDNS 拦截 (微信支付 HTTPDNS) ===
+paydns.wechatpay.cn
+

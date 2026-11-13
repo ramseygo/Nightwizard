@@ -1,30 +1,20 @@
-# === 知乎云控、开屏与遥测 (补充通用广告规则未覆盖项) ===
-appcloud2.in.zhihu.com
-sugar.zhihu.com
-crash2.zhihu.com
+# === 知乎补充拦截 ===
 zxwk.zhihu.com
-# 如不看重知乎实时私信推送，可保留下一行：
-mqtt.zhihu.com
 
-# === 其他特定私有上报接口 ===
+# === 特定私有上报接口 ===
 ap.dc-report.cc
 www.gzdata.com.cn
 .smogflycloud.com
-# === 补充 HTTPDNS 拦截 (微信支付 HTTPDNS) ===
-paydns.wechatpay.cn
 
-# === PCDN 偷跑与异常端口连接拦截 ===
+# === PCDN 偷跑与异常连接拦截 ===
 .qrstuvwxyzab.com
 p.tencentmusic.com
 
-# === 喜马拉雅埋点遥测与激励广告 ===
-mermaid.ximalaya.com
-ad-incentive.ximalaya.com
-
+# === 禁用 iCloud 隐私中继 (防止绕过 Surge 分流) ===
 mask.apple-dns.net
 mask.icloud.com
 mask-h2.icloud.com
 
-.pcdn.xmcdn.com
+# === 阿里系内网探测拦截 ===
 .alibaba-inc.com
 .ateam-inc.com

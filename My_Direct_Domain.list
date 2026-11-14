@@ -6,16 +6,6 @@
 .zhimg.com
 .chinatax.gov.cn
 
-# === B 站核心直连 ===
-app.bilibili.com
-api.bilibili.com
-api.vc.bilibili.com
-passport.bilibili.com
-message.bilibili.com
-grpc.biliapi.net
-.acgvideo.com
-.bilivideo.com
-
 # === 阿里系与支付宝直连 ===
 guide-acs.m.taobao.com
 mtop.taobao.com

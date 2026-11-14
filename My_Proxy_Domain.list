@@ -1,30 +1,31 @@
-# === 个人 App (Proxy) ===
+# === 个人 App 与阅读源 (Proxy) ===
 .reeder.app
 .reederapp.com
 .reederapp.net
 .reeder.co
 .bionic-reading.com
 .ankiweb.net
-.wikipedia.org
 .anyfeeder.com
 .feedx.net
 .ktachibana.party
-.fotmob.com
 .jintiankansha.me
 .dapenti.com
-kelee.one
-.githubusercontent.com
-.github.com
-.githubassets.com
 .omnigroup.com
 .smartmailcloud.com
 api.revenuecat.com
-.facebook.com
-.footystats.org
-.emas.etax.chinatax.gov.cn
+.digicert.com
 
-# === Instagram/Meta (Proxy) ===
+# === 体育数据 (Proxy) ===
+.sofascore.com
+.fotmob.com
+.footystats.org
+
+# === 核心平台显式兜底 (可选保留) ===
+.wikipedia.org
+.githubusercontent.com
+.github.com
+.githubassets.com
+.facebook.com
 .fbcdn.net
 .cdninstagram.com
 .instagram.com
-.digicert.com

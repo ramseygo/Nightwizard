@@ -14,7 +14,6 @@ passport.bilibili.com
 message.bilibili.com
 grpc.biliapi.net
 .acgvideo.com
-.hdslb.com
 .bilivideo.com
 
 # === 阿里系与支付宝直连 ===
